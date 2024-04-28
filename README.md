@@ -2,8 +2,6 @@
 # Popcorn
 
 
-
-
 ## Aim of the Project
  I have developed this project "Popcorn" so that every people can book their movie ticket from their home or any place without standing in a line.
 
@@ -19,3 +17,6 @@ Alltime movie is the source of the entertainment. There is no people who like to
 4. You can review movie and hall.
 5. Manager of the specific hall can add movie, movie trailer and update hall information.
 6. Admin will approve hall and hall manager so that unwanted issue will not be occured.
+
+## Md Shojib Hossain
+* **Email: mdshojib922@gmail.com**
